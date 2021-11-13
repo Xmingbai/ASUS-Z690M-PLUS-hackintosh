@@ -34,7 +34,7 @@ WIFI：BCM94352Z
 
 此份操作指南 同步 发布于B站专栏，方便国内访问  
 
- https://www.bilibili.com/read/cv13960802?spm_id_from=333.999.0.0 出处：bilibili
+ https://www.bilibili.com/read/cv13960802?spm_id_from=333.999.0.0 
 
 # 2.macOS 状况
 
@@ -42,11 +42,11 @@ WIFI：BCM94352Z
  
 ## PC截图
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
+![](https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh/blob/main/big%20sur.png)
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/CPU%20geekbench.png)
+![](https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh/blob/main/Monterey.png)
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
+![](https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh/blob/main/%E5%BC%80%E5%90%AF%E8%B6%85%E7%BA%BF%E7%A8%8B%2B%E5%85%B3%E9%97%AD%E5%B0%8F%E6%A0%B8%E5%BF%83.png)
 
 ## 基本功能
 
@@ -67,7 +67,9 @@ CPU正常睿频
 
 # 3.bios 设置参考指南   
 
-https://www.bilibili.com/read/cv7393476
+https://www.bilibili.com/read/cv7739198?spm_id_from=333.999.0.0
+
+安装系统阶段 建议关闭小核心，开启多线程
 
 
 另 四大主板厂商华擎、华硕、微星、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
