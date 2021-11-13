@@ -2,7 +2,7 @@
 
 # ASUS-Z690M-plus-hackintosh  opencore0.7.5
 ================================================================================
-目前支持的macOS版本
+![](https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh/blob/main/Monterey.png)
 
 
 
