@@ -8,7 +8,9 @@
 
 欢迎关注B站UP ：小明和他的女朋友
 
-https://www.bilibili.com/read/cv13960802?spm_id_from=333.999.0.0 
+详细测评视频  https://www.bilibili.com/video/BV1Kq4y16737/
+
+专栏文章 https://www.bilibili.com/read/cv13960802?spm_id_from=333.999.0.0 
 
 
 # 1.基本硬件配置清单 及截图
