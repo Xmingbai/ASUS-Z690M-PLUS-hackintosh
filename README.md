@@ -42,7 +42,7 @@ WIFI：BCM94352Z
 
 # 2.macOS 状况
 
- Catalina 10.15.x &   big sur 11.x   &  Monterey 11.1 beta
+ Catalina 10.15.x &   big sur 11.x   &  Monterey 12.1 beta
  
 ## PC截图
 
