@@ -7,7 +7,7 @@
 
 支持NAVI核心RX5500/5600/5700/6600/6800/6900系列显卡（vega核心系列显卡需去掉启动参数agdpmod=pikera）
 
-重新定制15个USB端口了，保留主板前置2个USB3和TYPE-C
+重新定制15个USB端口，保留主板前置2个USB3和TYPE-C
 
 ASUS-Z690M-PLUS-ALL21USBPorts.kext内含有主板全部21个USB端口可根据机箱USB分布删除部分来定制自己所需
 
