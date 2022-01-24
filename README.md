@@ -1,7 +1,7 @@
 # ASUS-Z690M-plus-hackintosh  opencore0.7.7
 更新至OC0.7.7 正式版，支持Catalina、big sur、Monterey12.1版本
 
-更新kexts至最新
+保持最简OC配置、更新kexts至最新
 
 支持12代所有大小核心CPU型号
 
