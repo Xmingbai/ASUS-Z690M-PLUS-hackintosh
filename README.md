@@ -6,7 +6,7 @@
 
 更新kexts至最新
 
-支持12代所有大小核心CPU型号，可同时大小核心
+支持12代所有大小核心CPU型号，可同时大小核心；没有小核心的CPU型号，需关闭provideCurrentCpuInfo
 
 支持NAVI核心RX5500/5600/5700/6600/6800/6900系列显卡（vega核心系列显卡需去掉启动参数agdpmod=pikera）
 
