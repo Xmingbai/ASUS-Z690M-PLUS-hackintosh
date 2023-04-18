@@ -40,7 +40,7 @@ ASUS-Z690M-PLUS-ALL21USBPorts.kext内含主板全部21个USB端口可根据机�
 
 欢迎关注B站UP ：小明和他的女朋友
 
-详细测评视频  https://www.bilibili.com/video/BV1Kq4y16737/
+详细测评视频  https://www.bilibili.com/video/BV1Kq4y16737/ (白嫖党三连支持一下)
 
 专栏文章 https://www.bilibili.com/read/cv13960802?spm_id_from=333.999.0.0 
 
